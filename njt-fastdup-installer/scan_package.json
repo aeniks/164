@@ -1,0 +1,51 @@
+{
+    "id": 1,
+    "name": "164",
+    "hash": "6sNAogi42g668f33519e02e",
+    "name_hash": "164_6sNAogi42g668f33519e02e",
+    "status": 10,
+    "scan_file": null,
+    "site_url": "https:\/\/164.glowfish.se",
+    "template_id": "1",
+    "filter_exts": null,
+    "filter_files": null,
+    "filter_dirs": null,
+    "filter_tables": null,
+    "store_path": "\/home\/store164\/htdocs\/164.glowfish.se\/wp-content\/njt-fastdup\/packages",
+    "store_url": "https:\/\/164.glowfish.se\/wp-content\/njt-fastdup\/packages\/",
+    "store_path_temp": "\/home\/store164\/htdocs\/164.glowfish.se\/wp-content\/njt-fastdup\/tmp",
+    "Archive": {
+        "is_filter": 1,
+        "export_onlydb": false,
+        "filter_exts": [],
+        "filter_dirs": [
+            "\/home\/store164\/htdocs\/164.glowfish.se\/.tmb",
+            "\/home\/store164\/htdocs\/164.glowfish.se\/wp-content\/njt-fastdup"
+        ],
+        "filter_files": [],
+        "read_checks": [],
+        "recursive_links": [],
+        "addon_sites": [],
+        "file": "164_6sNAogi42g668f33519e02e_archive.zip",
+        "sql_path": null,
+        "zip_archive": null,
+        "zip_path": null,
+        "compress_dir": "\/home\/store164\/htdocs\/164.glowfish.se",
+        "scan_path": null,
+        "unreadable_log": [],
+        "dir_exclude_log": [],
+        "recursive_links_log": [],
+        "exts_exclude_log": [],
+        "add_file_error_log": [],
+        "file_exclude_log": []
+    },
+    "Database": {
+        "is_filter": false,
+        "filter_tables": [],
+        "file": "164_6sNAogi42g668f33519e02e_database.sql",
+        "prefix": "wp_"
+    },
+    "created": "2024-07-11 01:20:17",
+    "njt_fastdup_archive_name": "wp-content\/njt-fastdup",
+    "njt_fastdup_dir_plugin": "wp-content\/plugins"
+}

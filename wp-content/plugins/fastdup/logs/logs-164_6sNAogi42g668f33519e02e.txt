@@ -1,0 +1,89 @@
+====  SYSTEM STATS  ====
+Wordpress Version: 6.5.5
+PHP Version: 8.3.8
+MySQL Version: 8.0.36
+Website Name: 164
+Theme: aeae
+Wordpress URL: https://164.glowfish.se
+Site URL: https://164.glowfish.se
+Multisite: no
+PHP Extensions: ["Core","date","libxml","openssl","pcre","zlib","filter","hash","json","random","Reflection","SPL","session","standard","sodium","cgi-fcgi","memcached","redis","imagick","mysqlnd","PDO","xml","bcmath","calendar","ctype","curl","dom","mbstring","FFI","fileinfo","ftp","gd","gettext","iconv","imap","intl","exif","mysqli","pdo_mysql","pdo_sqlite","Phar","posix","readline","shmop","SimpleXML","soap","sockets","sqlite3","sysvmsg","sysvsem","sysvshm","tokenizer","xmlreader","xmlwriter","xsl","zip","Zend OPcache"]
+Server Info: nginx/1.26.1
+WP Memory Limit: 40M
+WP Admin Memory Limit: 512M
+PHP Memory Limit: 512M
+Max Execution Time: 60
+Open BaseDir: 
+Wordpress Plugins: {"1-lightbox\/lightbox.php":{"GitHub Plugin URI":"","Name":"1-Lightbox","PluginURI":"","Version":"","Description":"Auto add a lightbox script (using <a href=\"https:\/\/fancyapps.com\/fancybox\/3\/\" target=\"_blank\">Fancybox<\/ * a>).","Author":"osmik","AuthorURI":"https:\/\/osmik.se","TextDomain":"1-lightbox","DomainPath":"","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","RequiresPlugins":"","Title":"1-Lightbox","AuthorName":"osmik"},"wp-asset-clean-up\/wpacu.php":{"GitHub Plugin URI":"","Name":"Asset CleanUp: Page Speed Booster","PluginURI":"https:\/\/wordpress.org\/plugins\/wp-asset-clean-up\/","Version":"1.3.9.3","Description":"Unload Chosen Scripts & Styles from Posts\/Pages to reduce HTTP Requests, Combine\/Minify CSS\/JS files","Author":"Gabe Livan","AuthorURI":"http:\/\/www.gabelivan.com\/","TextDomain":"wp-asset-clean-up","DomainPath":"\/languages","Network":false,"RequiresWP":"4.5","RequiresPHP":"5.6","UpdateURI":"","RequiresPlugins":"","Title":"Asset CleanUp: Page Speed Booster","AuthorName":"Gabe Livan"},"bulk-image-resizer\/bulk-image-resizer.php":{"GitHub Plugin URI":"","Name":"Bulk image resizer","PluginURI":"https:\/\/github.com\/giuliopanda\/bulk-image-resizer","Version":"2.0.1","Description":"Optimize images uploaded to the server. Go to \"tools\" to configure the plugin or to perform batch optimization. Go to \"Media library (list view)\" to optimize individual images.","Author":"Giulio Pandolfelli","AuthorURI":"","TextDomain":"bulk-image-resizer","DomainPath":"\/languages","Network":false,"RequiresWP":"5.3","RequiresPHP":"7.3","UpdateURI":"","RequiresPlugins":"","Title":"Bulk image resizer","AuthorName":"Giulio Pandolfelli"},"fastdup\/fastdup.php":{"GitHub Plugin URI":"","Name":"FastDup","PluginURI":"https:\/\/ninjateam.gitbook.io\/fastdup\/","Version":"2.2.2","Description":"WordPress Fastest Duplicator and Migration","Author":"Ninja Team","AuthorURI":"https:\/\/ninjateam.org\/","TextDomain":"fastdup","DomainPath":"\/languages","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","RequiresPlugins":"","Title":"FastDup","AuthorName":"Ninja Team"},"filester\/ninja-file-manager.php":{"GitHub Plugin URI":"","Name":"Filester - File Manager Pro","PluginURI":"https:\/\/ninjateam.org\/filester","Version":"1.8.2","Description":"Made to help you focus on WordPress file management and avoid being distracted.","Author":"Ninja Team","AuthorURI":"https:\/\/ninjateam.org","TextDomain":"filester","DomainPath":"\/i18n\/languages\/","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","RequiresPlugins":"","Title":"Filester - File Manager Pro","AuthorName":"Ninja Team"},"wp-seopress\/seopress.php":{"GitHub Plugin URI":"","Name":"SEOPress","PluginURI":"https:\/\/www.seopress.org\/","Version":"7.9.2","Description":"One of the best SEO plugins for WordPress.","Author":"The SEO Guys at SEOPress","AuthorURI":"https:\/\/www.seopress.org\/","TextDomain":"wp-seopress","DomainPath":"\/languages","Network":false,"RequiresWP":"5.0","RequiresPHP":"7.4","UpdateURI":"","RequiresPlugins":"","Title":"SEOPress","AuthorName":"The SEO Guys at SEOPress"},"simple-history\/index.php":{"GitHub Plugin URI":"","Name":"Simple History","PluginURI":"https:\/\/simple-history.com","Version":"4.16.0","Description":"Plugin that logs various things that occur in WordPress and then presents those events in a very nice GUI.","Author":"P\u00e4r Thernstr\u00f6m","AuthorURI":"https:\/\/simple-history.com\/","TextDomain":"simple-history","DomainPath":"","Network":false,"RequiresWP":"6.1","RequiresPHP":"7.4","UpdateURI":"","RequiresPlugins":"","Title":"Simple History","AuthorName":"P\u00e4r Thernstr\u00f6m"},"white-label-cms\/wlcms-plugin.php":{"GitHub Plugin URI":"","Name":"White Label CMS","PluginURI":"https:\/\/www.videousermanuals.com\/white-label-cms\/?utm_campaign=wlcms&utm_medium=plugin&utm_source=readme-txt","Version":"2.7.4","Description":"A plugin that allows you to brand WordPress CMS as your own","Author":"www.videousermanuals.com","AuthorURI":"https:\/\/www.videousermanuals.com\/?utm_campaign=wlcms&utm_medium=plugin&utm_source=readme-txt","TextDomain":"white-label-cms","DomainPath":"\/languages","Network":false,"RequiresWP":"","RequiresPHP":"","UpdateURI":"","RequiresPlugins":"","Title":"White Label CMS","AuthorName":"www.videousermanuals.com"},"wp-original-media-path\/wp_original_media_path.php":{"GitHub Plugin URI":"","Name":"WP Original Media Path","PluginURI":"https:\/\/github.com\/rvola\/wp-original-media-path","Version":"2.4.2","Description":"Change the location for the uploads folder for WordPress","Author":"RVOLA","AuthorURI":"https:\/\/rvola.com","TextDomain":"wp-original-media-path","DomainPath":"\/languages\/","Network":false,"RequiresWP":"3.5","RequiresPHP":"7.0","UpdateURI":"","RequiresPlugins":"","Title":"WP Original Media Path","AuthorName":"RVOLA"}}
+Wordpress Active Plugins: ["1-lightbox\/lightbox.php","bulk-image-resizer\/bulk-image-resizer.php","fastdup\/fastdup.php","filester\/ninja-file-manager.php","simple-history\/index.php","white-label-cms\/wlcms-plugin.php","wp-asset-clean-up\/wpacu.php","wp-original-media-path\/wp_original_media_path.php"]
+====  SYSTEM STATS  ====
+
+2024-07-11 01:20:17 [INFO] //========PACKAGE: START========//
+2024-07-11 01:20:17 [INFO] Create Package: ID: 1
+2024-07-11 01:20:17 [INFO] Package Data : {
+    "id": 1,
+    "name": "164",
+    "hash": "6sNAogi42g668f33519e02e",
+    "name_hash": "164_6sNAogi42g668f33519e02e",
+    "status": 10,
+    "scan_file": null,
+    "site_url": "https:\/\/164.glowfish.se",
+    "template_id": "1",
+    "filter_exts": null,
+    "filter_files": null,
+    "filter_dirs": null,
+    "filter_tables": null,
+    "store_path": "\/home\/store164\/htdocs\/164.glowfish.se\/wp-content\/njt-fastdup\/packages",
+    "store_url": "https:\/\/164.glowfish.se\/wp-content\/njt-fastdup\/packages\/",
+    "store_path_temp": "\/home\/store164\/htdocs\/164.glowfish.se\/wp-content\/njt-fastdup\/tmp",
+    "Archive": {
+        "is_filter": 1,
+        "export_onlydb": false,
+        "filter_exts": [],
+        "filter_dirs": [
+            "\/home\/store164\/htdocs\/164.glowfish.se\/.tmb",
+            "\/home\/store164\/htdocs\/164.glowfish.se\/wp-content\/njt-fastdup"
+        ],
+        "filter_files": [],
+        "read_checks": [],
+        "recursive_links": [],
+        "addon_sites": [],
+        "file": "164_6sNAogi42g668f33519e02e_archive.zip",
+        "sql_path": null,
+        "zip_archive": null,
+        "zip_path": null,
+        "compress_dir": "\/home\/store164\/htdocs\/164.glowfish.se",
+        "scan_path": null,
+        "unreadable_log": [],
+        "dir_exclude_log": [],
+        "recursive_links_log": [],
+        "exts_exclude_log": [],
+        "add_file_error_log": [],
+        "file_exclude_log": []
+    },
+    "Database": {
+        "is_filter": false,
+        "filter_tables": [],
+        "file": "164_6sNAogi42g668f33519e02e_database.sql",
+        "prefix": "wp_"
+    },
+    "created": "2024-07-11 01:20:17",
+    "njt_fastdup_archive_name": "wp-content\/njt-fastdup",
+    "njt_fastdup_dir_plugin": "wp-content\/plugins"
+}
+2024-07-11 01:20:17 [INFO] //========SCAN PACKAGE JSON: START========//
+2024-07-11 01:20:17 [INFO] //========SCAN PACKAGE JSON: DONE========//
+2024-07-11 01:20:21 [INFO] //========DATABASE: START========//
+2024-07-11 01:20:21 [INFO] //========DATABASE: DONE========//
+2024-07-11 01:20:21 [INFO] //========ARCHIVE: START========//
+2024-07-11 01:20:21 [INFO] File Path: /home/store164/htdocs/164.glowfish.se/wp-content/njt-fastdup/tmp/164_6sNAogi42g668f33519e02e_database.sql
+2024-07-11 01:20:21 [INFO] ZIP database: successfully
+2024-07-11 01:20:21 [INFO] File Path: /home/store164/htdocs/164.glowfish.se/wp-content/njt-fastdup/tmp/164_6sNAogi42g668f33519e02e_scan.json
+2024-07-11 01:20:21 [INFO] ZIP scan_json: successfully
+2024-07-11 01:20:21 [INFO] File Path: 
+2024-07-11 01:20:21 [INFO] ZIP htaccess: Not Found
+2024-07-11 01:20:21 [INFO] File Path: /home/store164/htdocs/164.glowfish.se/wp-config.php
+2024-07-11 01:20:21 [INFO] ZIP wp-config: successfully
+2024-07-11 01:20:21 [INFO] File Path: 
+2024-07-11 01:20:21 [INFO] ZIP robots: Not Found
+2024-07-11 01:20:21 [INFO] -----ZIP Source: Start-----
